@@ -2,7 +2,7 @@
 
 Frontend Developer | Web Development | Functional Programming | OOP | CSS | Multirepo | Monorepo
 
-Welcome to my GitHub profile! I'm a frontend developer with 5 years of experience in web development. I specialize in creating user interfaces using popular frameworks like React, Vue, and Angular. With a solid understanding of functional programming concepts and object-oriented programming principles, I strive to write clean and maintainable code.
+Welcome to my GitHub profile! I'm a Senior Frontend Developer with 5 years of experience in web development. I specialize in creating user interfaces using popular frameworks like React, Vue, and Angular. With a solid understanding of functional programming concepts and object-oriented programming principles, I strive to write clean and maintainable code.
 
 ### Skills and Expertise
 **Frameworks**: React, Vue, Angular
