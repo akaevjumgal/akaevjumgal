@@ -35,4 +35,4 @@ English (Fluent)
 
 Russian (Fluent)
 
-Japanese (In progress)
+Japanese (N3)
